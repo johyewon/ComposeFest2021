@@ -1,0 +1,2 @@
+com/hanix/week1/test/BuildConfig.java
+ com.hanix.week1.test.BuildConfig
