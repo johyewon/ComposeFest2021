@@ -64,7 +64,7 @@ class HelloCodelabActivity : AppCompatActivity() {
 }
 
 /**
- * A ViewModel extracts _state_ from the UI and defines _events_ that can update it.
+ * View Model
  */
 class HelloViewModel : ViewModel() {
 
@@ -79,6 +79,11 @@ class HelloViewModel : ViewModel() {
         _name.value = newName
     }
 }
+
+
+
+
+
 
 /**
  * An example showing unidirectional data flow in the View system using a ViewModel.
