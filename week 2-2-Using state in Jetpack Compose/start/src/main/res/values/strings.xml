@@ -15,7 +15,7 @@
   -->
 
 <resources>
-    <string name="app_name">StateCodelab</string>
+    <string name="app_name">Week2-2</string>
     <string name="cd_expand">Expand</string>
     <string name="cd_collapse">Collapse</string>
     <string name="cd_crop_square">Crop</string>
