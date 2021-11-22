@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbd253c6-58aa-4b7b-b012-413bbfb4bac1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/ComposeFest2021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/theme/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/theme/Shape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/theme/TextStyle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/theme/Theme.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.gradle/7.1.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.gradle/7.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_activity_activity_1_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_activity_activity_compose_1_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_activity_activity_ktx_1_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_annotation_annotation_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_collection_collection_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_animation_animation_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_animation_animation_core_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_foundation_foundation_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_foundation_foundation_layout_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_material_material_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_material_material_icons_core_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_material_material_ripple_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_runtime_runtime_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_runtime_runtime_saveable_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_geometry_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_graphics_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_text_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_data_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_tooling_preview_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_compose_ui_ui_unit_1_0_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_core_core_1_7_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_core_core_ktx_1_7_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_ktx_2_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_ktx_2_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_savedstate_savedstate_ktx_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_5_31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/modules/AnimationCodelab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/modules/finished/AnimationCodelab.finished.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/modules/start/AnimationCodelab.start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week 3-2-Jetpack Compose Animation/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codestream.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/todo/TodoScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../week 2-2-Using state in Jetpack Compose/start/src/main/java/com/codelabs/state/todo/TodoScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/Home.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/codelab/theming/ui/start/Home.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[ce05171524cc512503]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ComposeTheming" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ComposeTheming" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ComposeTheming" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20wUt7RA1alHoLta8GuHonVm2Tg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Android App.App – Start" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbd253c6-58aa-4b7b-b012-413bbfb4bac1" name="Default Changelist" comment="" />
+      <created>1636955354876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636955354876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
