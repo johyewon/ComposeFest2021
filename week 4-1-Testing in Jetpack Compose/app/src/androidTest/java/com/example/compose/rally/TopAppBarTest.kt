@@ -12,7 +12,7 @@ class TopAppBarTest {
     val composeTestRule = createComposeRule()
 
     @Test
-    fun rallyTopAppBAr_tabSelected() {
+    fun rallyTopAppBar_currentTabSelected() {
         val screens = RallyScreen.values().toList()
         composeTestRule.setContent {
             RallyTopAppBar(
@@ -27,7 +27,7 @@ class TopAppBarTest {
     }
 
     @Test
-    fun rallyTopAppBar_labelExist() {
+    fun rallyTopAppBar_currentLabelExists() {
         val screens = RallyScreen.values().toList()
         composeTestRule.setContent {
             RallyTopAppBar(
