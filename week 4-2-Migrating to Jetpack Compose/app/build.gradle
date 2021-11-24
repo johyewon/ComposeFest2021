@@ -62,6 +62,7 @@ android {
 
 dependencies {
     kapt "androidx.room:room-compiler:$rootProject.roomVersion"
+    kapt "org.xerial:sqlite-jdbc:3.34.0"        // mac m1
     kapt "com.github.bumptech.glide:compiler:$rootProject.glideVersion"
     implementation "androidx.appcompat:appcompat:$rootProject.appCompatVersion"
     implementation "androidx.constraintlayout:constraintlayout:$rootProject.constraintLayoutVersion"
